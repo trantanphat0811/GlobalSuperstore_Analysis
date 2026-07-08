@@ -500,35 +500,35 @@ python 02_Python/05_Forecast.py           # Bước 6: Forecast
 ### Trang 1 — Executive Summary
 *KPI tổng quan · Monthly Revenue Trend · Profit by Sub-Category · Year Slicer*
 
-![Executive Summary](03_PowerBI/screenshots/Executive.png)
+![Executive Summary](03_PowerBI/screenshots/Executive.png.jfif)
 
 ---
 
 ### Trang 2 — Sales by Region
 *Filled Map 147 quốc gia · Top 10 Countries by Profit · Market Summary Table*
 
-![Sales by Region](03_PowerBI/screenshots/Sales_by_Region.png)
+![Sales by Region](03_PowerBI/screenshots/Sales_by_Region.png.jfif)
 
 ---
 
 ### Trang 3 — Product Performance
 *Category Treemap · Sub-Category Profit · Discount vs Profit Scatter*
 
-![Product Performance](03_PowerBI/screenshots/Product.png)
+![Product Performance](03_PowerBI/screenshots/Product.png.jfif)
 
 ---
 
 ### Trang 4 — Sales Forecast
 *Actual vs Forecast 2011–2015 · KPI Cards H1 2015*
 
-![Sales Forecast](03_PowerBI/screenshots/Forecast.png)
+![Sales Forecast](03_PowerBI/screenshots/Forecast.png.jfif)
 
 ---
 
 ### Trang 5 — Customer Segments
 *RFM Donut Chart · Revenue by Segment · Top 15 Customers Table*
 
-![Customer Segments](03_PowerBI/screenshots/Customers.png)
+![Customer Segments](03_PowerBI/screenshots/Customers.png.jfif)
 
 ---
 
